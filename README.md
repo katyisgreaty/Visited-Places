@@ -16,18 +16,13 @@
 * _Input information_
 * _Submit information_
 
-
-## Known Bugs
-
-_This is perfect._
-
 ## Support and contact details
 
-_Don't submit feedback, as we are working on other projects._
+For questions or comments contact Katy at katy.daviscourt@gmail.com.
 
 ## Technologies Used
 
-_HTML, CSS, Javascript, Bootstrap, and jQuery_
+HTML, CSS, Javascript, Bootstrap, and jQuery
 
 ### License
 
